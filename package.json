@@ -1,11 +1,10 @@
 {
-  "name": "hi3-fps-unlocker",
+  "name": "hsr-fps-unlocker",
   "version": "1.0.0",
-  "description": "Allows for easy modification of Hi3 FPS values in and out of combat.",
+  "description": "Unlocks FPS in Honkai: Star Rail.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "build": "nexe index.js -o hi3-fps-unlocker.exe -t windows --build --verbose"
   },
   "keywords": [],
   "author": "dromzeh",
