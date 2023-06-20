@@ -1,13 +1,4 @@
-<p align = "center">
-    <a href="https://buymeacoffee.com/marcelmd" alt="buymeacoffee">
-        <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
-    <a href="https://nodejs.org" alt="node js">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
-    <a href = "https://pnpm.io/installation" alt = "pnpm">
-        <img src = "https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=white"></a>
-    <a href = "https://javascript.com" alt = "javascript">
-        <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white"></a>
-</p>
+## project has been discontinued in favour of [hyv-fps-unlocker](https://github.com/dromzeh/hyv-fps-unlocker/)
 
 # hsr-fps-unlocker
 
